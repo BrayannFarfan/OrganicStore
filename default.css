@@ -232,7 +232,7 @@ body {
 }
 .box1 .line {
   text-decoration: line-through;
-  color: red;
+  color: rgb(55, 0, 255);
 }
 /*********************************************************************************/
 /* Footer                                                                        */
